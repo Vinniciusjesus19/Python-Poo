@@ -9,5 +9,6 @@ class Aluno:
         self.idade = idade
         self.endereco = endereco
 
-        def exibir_dados(self) -> str:
-            return f"Nome: {self.nome} \nIdade: {self.idade} \nEndereço 
+    def exibir_dados(self) -> str:
+        return f"Nome: {self.nome} \nIdade: {self.idade} \nEndereco
+        
